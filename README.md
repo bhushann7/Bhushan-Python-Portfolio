@@ -1,6 +1,8 @@
 #  FPL Player Price Changes Tracker Bot
 
-![FPL Price Change Tracker Twitter account Logo](https://github.com/bhushann7/FPL-Price-Changes-Bot/blob/main/FPL%20X%20logo.jpg?raw=true =250x250)
+
+
+<img src="[https://i.imgur.com/ZWnhY9T.png](https://github.com/bhushann7/FPL-Price-Changes-Bot/blob/main/FPL%20X%20logo.jpg?raw=true)" width=50% height=50%>
 
 ## Overview
 The FPL Player Price Change Tracker is a Python application that monitors and reports daily price changes of players in the Fantasy Premier League (FPL). Utilizing the FPL API and Twitter API, this tool fetches player data, identifies price changes, and tweets the results daily at 1:30 AM GMT.
