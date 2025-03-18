@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+.eggs/
+dist/
+build/
+sdist/
+wheels/
+*.egg-info/
+.tox/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+.env/
+
+# PyInstaller
+#  Usually these files are written into a dist/ directory.
+#  Often these files are created temporarily.
+pyinstaller.log
+build/
+dist/
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# mypy cache
+.mypy_cache/
+
+# Environments created by pipenv
+Pipfile.lock
